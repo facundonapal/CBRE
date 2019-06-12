@@ -30401,3 +30401,30 @@ li.ui-timepicker-selected .ui-timepicker-duration,
 .ui-timepicker-list li.ui-timepicker-selected.ui-timepicker-disabled {
     background: #f2f2f2
 }
+
+/* Photoslurp styles */
+
+.widget_heading {
+    font-size: 3.66667em;
+    font-weight: 400;
+    margin-top: 60px;
+    margin-left: 310px;
+}
+
+.widget_heading_link {
+    text-decoration: none;
+    border-bottom: 1px solid;
+    margin-left: 310px;
+    color: #144460;
+    margin-bottom: 55px;
+    transition: all .2s linear;
+}
+
+.widget_heading_link:hover {
+    text-decoration: none;
+    color: #09a3c9;
+}
+
+.ps-container-home {
+    margin: 55px 0; 
+}
