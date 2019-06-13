@@ -1,5 +1,6 @@
 .wrapper-widgets {
-    text-align: center
+    text-align: center;
+    margin-bottom: 55px;
 }
 
 .wrapper-widgets .tabss input[type=radio] {
@@ -49,8 +50,8 @@ ul.ps-images {
 .wrapper-widgets #tab1:checked~#tab-content1,
 .wrapper-widgets #tab2:checked~#tab-content2,
 .wrapper-widgets #tab3:checked~#tab-content3,
-.wrapper-widgets #tab4:checked~#tab-content4,
-.wrapper-widgets #tab5:checked~#tab-content5 {
+.wrapper-widgets #tab4:checked~#tab-content4
+/*.wrapper-widgets #tab5:checked~#tab-content5*/ {
     display: block
 }
 

@@ -30404,6 +30404,10 @@ li.ui-timepicker-selected .ui-timepicker-duration,
 
 /* Photoslurp styles */
 
+.widget-container {
+    background-image:  
+}
+
 .widget_heading {
     font-size: 3.66667em;
     font-weight: 400;
